@@ -24,6 +24,8 @@ Pellentesque ornare efficitur ~~malesuada~~. Sed pulvinar ~~malesuada~~ neque se
 Vestibulum urna elit, ~~malesuada~~ ac hendrerit nec, *volutpat* egestas velit. Donec convallis velit at rutrum mollis. Interdum et ~~malesuada~~ fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et ~~malesuada~~ fames ac turpis egestas. Integer vel augue ornare, faucibus leo nec, vestibulum libero. Proin a pellentesque mauris. Vivamus placerat nisi at cursus scelerisque. ***Nunc tempus pharetra metus, sit amet eleifend nisl convallis et. Curabitur consectetur, ex quis ultrices blandit, neque dui tincidunt mauris, eget tempus lorem dui eu quam***. **Aliquam** erat *volutpat*. Suspendisse nisl nulla, varius vitae tristique eget, rhoncus in dui. Mauris eleifend nisi ut ligula tempor pharetra. Phasellus sed massa eu turpis pulvinar iaculis vitae in ex. Donec gravida in nulla ac interdum. Proin tincidunt nunc rhoncus lorem rutrum, suscipit varius dolor commodo. Nam consequat ex felis, non tristique metus lobortis non.
 ___
  Fusce mollis ac mi in laoreet. Fusce eu risus at tortor aliquet ~~malesuada~~. Nullam eget **aliquam** urna. Donec at venenatis ipsum. Donec sed pharetra massa. Sed varius consectetur tellus. Maecenas sodales rhoncus neque, ac hendrerit est ornare nec. Integer quis sapien massa. 
+ 
   :smile: 
+  
   :slightly_smiling_face:
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
